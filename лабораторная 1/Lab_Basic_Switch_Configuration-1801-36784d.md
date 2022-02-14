@@ -459,7 +459,8 @@ line protocol is up
 1. ### **Протестируйте сквозное соединение, отправив эхо-запрос.**
    1. В командной строке компьютера PC-A с помощью утилиты ping проверьте связь сначала с адресом PC-A.
 
-C:\> **ping 192.168.1.10** ![Aspose Words cbf719f6-a7ee-4b92-a4b0-76115092b8bf 005](https://user-images.githubusercontent.com/93028347/153824928-f72ea194-b231-4308-8e35-89c50cf814d6.png)
+C:\> **ping 192.168.1.10** 
+![Aspose Words cbf719f6-a7ee-4b92-a4b0-76115092b8bf 005](https://user-images.githubusercontent.com/93028347/153824928-f72ea194-b231-4308-8e35-89c50cf814d6.png)
 
 
 Автоматически созданное описание](Aspose.Words.cbf719f6-a7ee-4b92-a4b0-76115092b8bf.005.png)
